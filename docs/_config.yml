@@ -1,0 +1,6 @@
+title: AI Content Lab
+description: 我的 AI 应用与内容创作实验室
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
